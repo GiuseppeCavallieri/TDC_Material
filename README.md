@@ -1,1 +1,1 @@
-Este repositorio contiene las guías de materia del ramo "Taller de Computación" junto con ayudantías, ejercicios y pruebas de este.
+Este repositorio contiene las guías de materia del ramo "Taller de Computación" junto con ayudantías, ejercicios y pruebas.
