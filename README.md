@@ -1,4 +1,4 @@
-Este repositorio contiene las guías de materia del ramo "Taller de Computación" junto con ayudantías, ejercicios y pruebas.
+Este repositorio contiene las guías de materia del ramo "Teoría de Computación" junto con ayudantías, ejercicios y pruebas.
 
 Ayudantias (Solo personas con correo del dominio "usach.cl" podrán ingresar):
 [Ayudantias](https://drive.google.com/drive/folders/1nGpyYsR7nWxjlt4o7ecncSyEyx8J0sSr?fbclid=IwAR3VWy9nH9ZblpfHXomjMLT2Kz8BCmViHGSFuZvfJ79ovBhbQekOgwnzujQ)
