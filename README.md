@@ -5,4 +5,4 @@ Ayudantias (Solo personas con correo del dominio "usach.cl" podrán ingresar):
 
 
 Más material (por parte de la cuenta de github "open-source-usach"):
-https://github.com/open-source-usach/papeos-guias/tree/main/%5BTDC%5D%20-%20Teor%C3%ADa%20de%20Computaci%C3%B3n
+[Repo oss](https://github.com/open-source-usach/papeos-guias/tree/main/%5BTDC%5D%20-%20Teor%C3%ADa%20de%20Computaci%C3%B3n)
